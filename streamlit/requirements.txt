@@ -1,0 +1,5 @@
+streamlit
+streamlit-chat==0.1.1
+streamlit-chat-media==0.0.4
+requests==2.31.0
+requests-toolbelt==1.0.0

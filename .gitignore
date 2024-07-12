@@ -1,0 +1,7 @@
+.vscode/
+.devcontainer/
+*.pyc
+__pycache__/
+.env
+fastapi/.env
+fastapi/uploaded-content/
